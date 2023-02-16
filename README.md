@@ -10,9 +10,9 @@ It uses :
 2. Build the required libs using the build.bat script in the `script` directory of said repo.
 4. Go to the examples directory inside the directory in which you have cloned the https://github.com/webview/webview repo.
 5. Inside the `examples` directory, clone the current repo `https://github.com/serge-hulne/Crystal-App-template-for-Windows`
-6. Inside the `github.com/serge-hulne/Crystal-App-template-for-Windows` directory look for the `scripts` directory
+6. Inside the `Crystal-App-template-for-Windows` directory look for the `scripts` directory
 7. Run the `install.bat` script in order to install the libraries you have built in step 2.
-8. Inside the CrystalApp directory of `github.com/serge-hulne/Crystal-App-template-for-Windows`, do : `shards build`
+8. Inside the CrystalApp directory of `Crystal-App-template-for-Windows`, do : `shards build`
 9. The resulting executable wil be created inside the local `bin` directory along the webview.dll library required to run it.  
 
 
